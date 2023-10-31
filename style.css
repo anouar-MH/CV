@@ -495,8 +495,12 @@ footer {
     flex-direction: column;
     align-items: baseline;
   }
+div#google_translate_element {
+    overflow: hidden;
+}
   .contenaire {
     flex-direction: column;
+	overflow:hidden;
   }
   .part1 {
     width: 100%;
